@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<NetworkLink>
+  <name>NYCBikeMaps</name>
+  <LookAt>
+    <longitude>-73.9253227924694</longitude>
+    <latitude>40.73793464128983</latitude>
+    <range>43219.97955815154</range>
+    <tilt>1.020200094568735e-012</tilt>
+    <heading>-0.2345879435642206</heading>
+  </LookAt>
+  <flyToView>1</flyToView>
+  <Url>
+    <href>http://nycbikemaps.com/files/NYC-BICYCLE-MAP-01.kml</href>
+  </Url>
+</NetworkLink>
+</kml>
